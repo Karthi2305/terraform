@@ -3,12 +3,12 @@
 ```bash
 sudo apt update
 sudo apt install -y awscli
-
+```
 ## Configure AWS Credentials
 
 ```bash
 aws configure
-
+```
 ##You will be prompted for:
 
 AWS Access Key ID
@@ -20,3 +20,4 @@ Verify Configuration
 
 ```bash
 aws sts get-caller-identity
+```

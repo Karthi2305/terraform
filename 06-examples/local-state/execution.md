@@ -42,7 +42,7 @@ this Downloads required provider plugins and initializes the working directory.
 ### Step 2: Review execution plan
 ```bash
 terraform plan
-
+```
 ## Shows what resources Terraform will create without applying changes.
 
 ### Step 3: Apply the configuration
